@@ -1,0 +1,11 @@
+FAKTUR PENJUALAN - PT TECH INDO
+No. Faktur: INV-2026-009
+Tanggal: 15 September 2026
+Vendor: PT Tech Indo Solution
+
+Rincian Item:
+1. Laptop Workstation - 2 unit x Rp 15.000.000 = Rp 30.000.000
+2. Monitor 27 Inch - 1 unit x Rp 4.500.000 = Rp 4.500.000
+
+Total Tagihan: Rp 34.500.000
+Status: UNPAID
